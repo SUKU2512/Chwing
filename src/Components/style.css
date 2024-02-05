@@ -1,0 +1,223 @@
+.cd{
+    border-radius: 16px;
+    margin-top: 20px;
+    height: 16rem;
+}
+.logo{
+    width:10%;
+    height:20%;
+}
+.fill{
+  background-color:teal;
+  border-radius: 30px;
+}
+h1,h3{
+    font-family: 'Lucida Handwriting', cursive;
+    margin-top: 25px;
+}
+#fix{
+  text-align: left;
+  margin-left: 2px;
+}
+.lname{
+color: white;
+}
+.container{
+    width: 100%;
+}
+#text{
+    height: 38px;
+    border-radius: 5px;
+}
+section{
+    justify-content: start;
+    font-family: 'Papyrus';
+}
+h4{
+    font-family: 'Comic Sans MS';
+    
+}
+.rate{
+background-color: green;
+color: white;
+width: 15%;
+
+border-radius: 5px;
+text-align: center;
+}
+.card_body{
+    margin-left:10px;
+    margin-right: 10px;
+}
+h6{
+    font-size: 15px;
+    font-weight: 400;
+}
+.round {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+button{
+    width: 4%;
+    border-radius: 8px;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+nav{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#book{
+    border-radius: 5px;
+    width:fit-content;
+    height: fit-content;
+}
+.main_div{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .sub_div{
+    width: 75%;
+    height: 100%;
+    border: 1px solid black;
+    box-shadow: 5px 5px 25px black;
+  } 
+  #Imenu{
+    margin-top: 20px;
+    margin-bottom: 10%;
+    color: blue;
+    font-family: 'Papyrus';
+  }
+  #space{
+    padding-right: 30px;
+  }
+  sup {
+    vertical-align:text-top;
+    font-size: large;
+    color: black;
+  }
+ .tdname{
+  text-align: left;
+ }
+ .tdprice{
+  text-align: right;
+ }
+ .maindiv{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.subdiv{
+  width: 35%;
+  height: 100%;
+  border: 1px solid black;
+  box-shadow: 5px 5px 25px black;
+}
+.os{
+  margin-bottom: 10%;
+}
+.final{
+margin: 40px 0px;
+}
+.nhead{
+  background-color: teal;
+}
+.gap{
+  margin-bottom: 5px;
+}
+h2{
+  color: red;
+}
+button{
+  width: fit-content;
+}
+.maindiv_{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 20vh;
+
+}
+.subdiv_{
+  padding-top: 10vh;
+  width:30%;
+  height:65vh;
+  border: 1px solid black;
+  box-shadow: 5px 5px 35px black;
+  
+}
+td{
+  text-align: left;
+  padding: 7px;
+}
+#cart{
+  color:black;
+  width: 5%;
+  height: 5%;
+  font-weight: 900;
+  text-decoration: none;
+}
+#cart:hover{
+  width:60;
+  height: 50;
+}
+.lname{
+  margin-right: 73%;
+}
+.progress{
+  width: 40%;
+  margin-left: 30%;
+}
+.progress-bar{
+  width: 30%;
+}
+#rname{
+  text-align: left;
+}
+#align{
+  padding: 14px;
+}
+#morder{
+  height:55px;
+  width: 90px;
+  padding: 5px;
+  text-align: center;
+}
+#plus{
+  border-radius: 8px;
+}
+#plus:hover{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.x{
+  font-family: 'Papyrus';
+  color: white;
+  font-size:xx-large;
+  font-weight:bold;
+  text-decoration: none;
+}
+.x:hover{
+  color:yellow;
+}
+.y{
+  margin-bottom: 35px;
+}
+#change{
+  color: yellow;
+}
+.carousel-inner{
+  width: 100%;
+  height: 300px;
+  }
